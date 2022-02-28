@@ -1,0 +1,11 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div{
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+}
