@@ -1,0 +1,17 @@
+.class{
+    background-color: rgb(255, 134, 134);
+}
+
+#id{
+    font-size: 32px;
+    color: blue;
+}
+
+#div--id{
+    background-color: rgb(156, 255, 156);
+    font-weight: bold;
+}
+
+.big{
+    font-size: 24px;
+}
